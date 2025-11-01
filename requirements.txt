@@ -1,0 +1,9 @@
+gradio>=3.34
+wikipedia
+duckduckgo_search
+requests
+pytesseract
+Pillow
+python-dotenv
+urllib3
+

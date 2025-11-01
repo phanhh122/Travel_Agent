@@ -1,0 +1,4271 @@
+[{
+        "name_vi": "Hà Nội",
+        "name_en": "Hanoi",
+        "description_vi": "Thủ đô nghìn năm văn hiến, trung tâm chính trị, văn hóa và ẩm thực.",
+        "description_en": "Hanoi, Vietnam's thousand-year-old capital, rich in culture and cuisine.",
+        "best_time_vi": "Tháng 9-11, 3-4",
+        "best_time_en": "September-November, March-April",
+        "top_attractions_vi": [{
+            "name": "Hồ Gươm",
+            "desc": "Trung tâm lịch sử",
+            "price": "Miễn phí",
+            "opening_time": "Cả ngày",
+            "duration": "30-60 phút",
+            "tips": "Đi bộ sáng sớm"
+        }],
+        "top_attractions_en": [{
+            "name": "Hoan Kiem Lake",
+            "desc": "Historic center",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30-60 min",
+            "tips": "Walk early morning"
+        }],
+        "foods_vi": [{
+            "name": "Phở Hà Nội",
+            "desc": "Nước dùng trong",
+            "avg_price": "40k–70k VND",
+            "where_to_try": "Phở Bát Đàn"
+        }],
+        "foods_en": [{
+            "name": "Hanoi Pho",
+            "desc": "Clear broth noodle soup",
+            "avg_price": "2–3 USD",
+            "where_to_try": "Pho Bat Dan"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Lăng Bác",
+                    "Phố cổ"
+                ]
+            }],
+            "cost_estimate_vi": "1.5–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "2-day",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Ho Chi Minh Mausoleum",
+                    "Old Quarter"
+                ]
+            }],
+            "cost_estimate_en": "60–120 USD"
+        }],
+        "travel_tips_vi": [
+            "Mang giày thoải mái."
+        ],
+        "travel_tips_en": [
+            "Wear comfortable shoes."
+        ],
+        "days_vi": "2–3 ngày",
+        "days_en": "2–3 days"
+    },
+    {
+        "name_vi": "Hải Phòng",
+        "name_en": "Hải Phòng",
+        "description_vi": "Hải Phòng là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Hải Phòng is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Quảng Ninh",
+        "name_en": "Quảng Ninh",
+        "description_vi": "Quảng Ninh là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Quảng Ninh is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Hải Dương",
+        "name_en": "Hải Dương",
+        "description_vi": "Hải Dương là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Hải Dương is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Hưng Yên",
+        "name_en": "Hưng Yên",
+        "description_vi": "Hưng Yên là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Hưng Yên is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Thái Bình",
+        "name_en": "Thái Bình",
+        "description_vi": "Thái Bình là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Thái Bình is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Nam Định",
+        "name_en": "Nam Định",
+        "description_vi": "Nam Định là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Nam Định is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Ninh Bình",
+        "name_en": "Ninh Bình",
+        "description_vi": "Ninh Bình là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Ninh Bình is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Thanh Hóa",
+        "name_en": "Thanh Hóa",
+        "description_vi": "Thanh Hóa là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Thanh Hóa is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Nghệ An",
+        "name_en": "Nghệ An",
+        "description_vi": "Nghệ An là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Nghệ An is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Hà Tĩnh",
+        "name_en": "Hà Tĩnh",
+        "description_vi": "Hà Tĩnh là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Hà Tĩnh is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Quảng Bình",
+        "name_en": "Quảng Bình",
+        "description_vi": "Quảng Bình là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Quảng Bình is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Quảng Trị",
+        "name_en": "Quảng Trị",
+        "description_vi": "Quảng Trị là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Quảng Trị is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Thừa Thiên Huế",
+        "name_en": "Thừa Thiên Huế",
+        "description_vi": "Thừa Thiên Huế là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Thừa Thiên Huế is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Đà Nẵng",
+        "name_en": "Da Nang",
+        "description_vi": "Thành phố biển hiện đại, nổi tiếng với bãi biển dài và cầu Rồng.",
+        "description_en": "Modern coastal city famous for long beaches and Dragon Bridge.",
+        "best_time_vi": "Tháng 2–8",
+        "best_time_en": "February–August",
+        "top_attractions_vi": [{
+            "name": "Bãi biển Mỹ Khê",
+            "desc": "Bãi biển đẹp",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "2–4 giờ",
+            "tips": "Tắm biển sáng sớm"
+        }],
+        "top_attractions_en": [{
+            "name": "My Khe Beach",
+            "desc": "Beautiful beach",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "2–4 hours",
+            "tips": "Swim early morning"
+        }],
+        "foods_vi": [{
+            "name": "Mì Quảng",
+            "desc": "Mì miền Trung",
+            "avg_price": "30k–60k VND",
+            "where_to_try": "Quán địa phương"
+        }],
+        "foods_en": [{
+            "name": "Mi Quang",
+            "desc": "Central noodle dish",
+            "avg_price": "2–4 USD",
+            "where_to_try": "Local stalls"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Mỹ Khê",
+                    "Cầu Rồng"
+                ]
+            }],
+            "cost_estimate_vi": "2–4 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "2-day",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "My Khe Beach",
+                    "Dragon Bridge"
+                ]
+            }],
+            "cost_estimate_en": "80–160 USD"
+        }],
+        "travel_tips_vi": [
+            "Chuẩn bị kem chống nắng."
+        ],
+        "travel_tips_en": [
+            "Bring sunscreen."
+        ],
+        "days_vi": "2–3 ngày",
+        "days_en": "2–3 days"
+    },
+    {
+        "name_vi": "Quảng Nam",
+        "name_en": "Quảng Nam",
+        "description_vi": "Quảng Nam là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Quảng Nam is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Quảng Ngãi",
+        "name_en": "Quảng Ngãi",
+        "description_vi": "Quảng Ngãi là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Quảng Ngãi is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bình Định",
+        "name_en": "Bình Định",
+        "description_vi": "Bình Định là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bình Định is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Phú Yên",
+        "name_en": "Phú Yên",
+        "description_vi": "Phú Yên là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Phú Yên is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Khánh Hòa",
+        "name_en": "Khánh Hòa",
+        "description_vi": "Khánh Hòa là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Khánh Hòa is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Ninh Thuận",
+        "name_en": "Ninh Thuận",
+        "description_vi": "Ninh Thuận là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Ninh Thuận is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bình Thuận",
+        "name_en": "Bình Thuận",
+        "description_vi": "Bình Thuận là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bình Thuận is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Kon Tum",
+        "name_en": "Kon Tum",
+        "description_vi": "Kon Tum là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Kon Tum is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Gia Lai",
+        "name_en": "Gia Lai",
+        "description_vi": "Gia Lai là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Gia Lai is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Đắk Lắk",
+        "name_en": "Đắk Lắk",
+        "description_vi": "Đắk Lắk là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Đắk Lắk is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Đắk Nông",
+        "name_en": "Đắk Nông",
+        "description_vi": "Đắk Nông là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Đắk Nông is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Lâm Đồng",
+        "name_en": "Lâm Đồng",
+        "description_vi": "Lâm Đồng là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Lâm Đồng is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bình Phước",
+        "name_en": "Bình Phước",
+        "description_vi": "Bình Phước là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bình Phước is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Tây Ninh",
+        "name_en": "Tây Ninh",
+        "description_vi": "Tây Ninh là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Tây Ninh is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bình Dương",
+        "name_en": "Bình Dương",
+        "description_vi": "Bình Dương là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bình Dương is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Đồng Nai",
+        "name_en": "Đồng Nai",
+        "description_vi": "Đồng Nai là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Đồng Nai is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bà Rịa - Vũng Tàu",
+        "name_en": "Bà Rịa - Vũng Tàu",
+        "description_vi": "Bà Rịa - Vũng Tàu là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bà Rịa - Vũng Tàu is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Thành phố Hồ Chí Minh",
+        "name_en": "Ho Chi Minh City",
+        "description_vi": "Trung tâm kinh tế sôi động miền Nam, ẩm thực đường phố phong phú.",
+        "description_en": "Vibrant economic center in the south with rich street food.",
+        "best_time_vi": "Tháng 12–4",
+        "best_time_en": "December–April",
+        "top_attractions_vi": [{
+            "name": "Nhà thờ Đức Bà",
+            "desc": "Biểu tượng",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 phút",
+            "tips": "Khu vực đông"
+        }],
+        "top_attractions_en": [{
+            "name": "Notre-Dame Cathedral",
+            "desc": "Colonial landmark",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 min",
+            "tips": "Busy area"
+        }],
+        "foods_vi": [{
+            "name": "Bánh mì",
+            "desc": "Bánh mì Sài Gòn",
+            "avg_price": "20k–40k VND",
+            "where_to_try": "Street stalls"
+        }],
+        "foods_en": [{
+            "name": "Banh Mi",
+            "desc": "Vietnamese sandwich",
+            "avg_price": "1–2 USD",
+            "where_to_try": "Local stalls"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Nhà thờ Đức Bà",
+                    "Chợ Bến Thành"
+                ]
+            }],
+            "cost_estimate_vi": "1.5–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "2-day",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Notre-Dame",
+                    "Ben Thanh Market"
+                ]
+            }],
+            "cost_estimate_en": "60–120 USD"
+        }],
+        "travel_tips_vi": [
+            "Cẩn thận giao thông."
+        ],
+        "travel_tips_en": [
+            "Be careful with traffic."
+        ],
+        "days_vi": "2–3 ngày",
+        "days_en": "2–3 days"
+    },
+    {
+        "name_vi": "Long An",
+        "name_en": "Long An",
+        "description_vi": "Long An là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Long An is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Tiền Giang",
+        "name_en": "Tiền Giang",
+        "description_vi": "Tiền Giang là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Tiền Giang is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bến Tre",
+        "name_en": "Bến Tre",
+        "description_vi": "Bến Tre là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bến Tre is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Trà Vinh",
+        "name_en": "Trà Vinh",
+        "description_vi": "Trà Vinh là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Trà Vinh is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Vĩnh Long",
+        "name_en": "Vĩnh Long",
+        "description_vi": "Vĩnh Long là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Vĩnh Long is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Cần Thơ",
+        "name_en": "Cần Thơ",
+        "description_vi": "Cần Thơ là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Cần Thơ is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Hậu Giang",
+        "name_en": "Hậu Giang",
+        "description_vi": "Hậu Giang là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Hậu Giang is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Kiên Giang",
+        "name_en": "Kiên Giang",
+        "description_vi": "Kiên Giang là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Kiên Giang is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "An Giang",
+        "name_en": "An Giang",
+        "description_vi": "An Giang là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "An Giang is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Cà Mau",
+        "name_en": "Cà Mau",
+        "description_vi": "Cà Mau là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Cà Mau is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Sóc Trăng",
+        "name_en": "Sóc Trăng",
+        "description_vi": "Sóc Trăng là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Sóc Trăng is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bắc Kạn",
+        "name_en": "Bắc Kạn",
+        "description_vi": "Bắc Kạn là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bắc Kạn is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Thái Nguyên",
+        "name_en": "Thái Nguyên",
+        "description_vi": "Thái Nguyên là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Thái Nguyên is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Phú Thọ",
+        "name_en": "Phú Thọ",
+        "description_vi": "Phú Thọ là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Phú Thọ is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Vĩnh Phúc",
+        "name_en": "Vĩnh Phúc",
+        "description_vi": "Vĩnh Phúc là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Vĩnh Phúc is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bắc Giang",
+        "name_en": "Bắc Giang",
+        "description_vi": "Bắc Giang là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bắc Giang is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Lạng Sơn",
+        "name_en": "Lạng Sơn",
+        "description_vi": "Lạng Sơn là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Lạng Sơn is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Bắc Ninh",
+        "name_en": "Bắc Ninh",
+        "description_vi": "Bắc Ninh là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Bắc Ninh is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Hòa Bình",
+        "name_en": "Hòa Bình",
+        "description_vi": "Hòa Bình là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Hòa Bình is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Yên Bái",
+        "name_en": "Yên Bái",
+        "description_vi": "Yên Bái là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Yên Bái is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Lào Cai",
+        "name_en": "Lào Cai",
+        "description_vi": "Lào Cai là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Lào Cai is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Sơn La",
+        "name_en": "Sơn La",
+        "description_vi": "Sơn La là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Sơn La is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Điện Biên",
+        "name_en": "Điện Biên",
+        "description_vi": "Điện Biên là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Điện Biên is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Hà Giang",
+        "name_en": "Hà Giang",
+        "description_vi": "Hà Giang là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Hà Giang is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Phú Quốc",
+        "name_en": "Phú Quốc",
+        "description_vi": "Phú Quốc là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Phú Quốc is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Côn Đảo",
+        "name_en": "Côn Đảo",
+        "description_vi": "Côn Đảo là một điểm đến du lịch ở Việt Nam. Mô tả ngắn.",
+        "description_en": "Côn Đảo is a travel destination in Vietnam. Short description.",
+        "best_time_vi": "Tùy mùa",
+        "best_time_en": "Varies by season",
+        "top_attractions_vi": [{
+            "name": "Điểm tham quan 1",
+            "desc": "Mô tả",
+            "price": "Liên hệ",
+            "opening_time": "Tùy",
+            "duration": "1–2 giờ",
+            "tips": "Mẹo"
+        }],
+        "top_attractions_en": [{
+            "name": "Attraction 1",
+            "desc": "Description",
+            "price": "Contact",
+            "opening_time": "Varies",
+            "duration": "1–2 hours",
+            "tips": "Tip"
+        }],
+        "foods_vi": [{
+            "name": "Món ăn địa phương",
+            "desc": "Mô tả",
+            "avg_price": "Tham khảo",
+            "where_to_try": "Quán gợi ý"
+        }],
+        "foods_en": [{
+            "name": "Local dish",
+            "desc": "Description",
+            "avg_price": "Estimate",
+            "where_to_try": "Recommended place"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "Lịch trình 2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Hoạt động 1",
+                    "Hoạt động 2"
+                ]
+            }],
+            "cost_estimate_vi": "1–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "Suggested 2-day itinerary",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Activity 1",
+                    "Activity 2"
+                ]
+            }],
+            "cost_estimate_en": "50–150 USD"
+        }],
+        "travel_tips_vi": [
+            "Mẹo 1",
+            "Mẹo 2"
+        ],
+        "travel_tips_en": [
+            "Tip 1",
+            "Tip 2"
+        ],
+        "days_vi": "1–2 ngày",
+        "days_en": "1–2 days"
+    },
+    {
+        "name_vi": "Hà Nội (extra 60)",
+        "name_en": "Hanoi (extra 60)",
+        "description_vi": "Thủ đô nghìn năm văn hiến, trung tâm chính trị, văn hóa và ẩm thực.",
+        "description_en": "Hanoi, Vietnam's thousand-year-old capital, rich in culture and cuisine.",
+        "best_time_vi": "Tháng 9–11, 3–4",
+        "best_time_en": "September–November, March–April",
+        "top_attractions_vi": [{
+            "name": "Hồ Gươm",
+            "desc": "Trung tâm lịch sử",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 phút",
+            "tips": "Đi bộ sáng sớm"
+        }],
+        "top_attractions_en": [{
+            "name": "Hoan Kiem Lake",
+            "desc": "Historic center",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 min",
+            "tips": "Walk early morning"
+        }],
+        "foods_vi": [{
+            "name": "Phở Hà Nội",
+            "desc": "Nước dùng trong",
+            "avg_price": "40k–70k VND",
+            "where_to_try": "Phở Bát Đàn"
+        }],
+        "foods_en": [{
+            "name": "Hanoi Pho",
+            "desc": "Clear broth noodle soup",
+            "avg_price": "2–3 USD",
+            "where_to_try": "Pho Bat Dan"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Lăng Bác",
+                    "Phố cổ"
+                ]
+            }],
+            "cost_estimate_vi": "1.5–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "2-day",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Ho Chi Minh Mausoleum",
+                    "Old Quarter"
+                ]
+            }],
+            "cost_estimate_en": "60–120 USD"
+        }],
+        "travel_tips_vi": [
+            "Mang giày thoải mái."
+        ],
+        "travel_tips_en": [
+            "Wear comfortable shoes."
+        ],
+        "days_vi": "2–3 ngày",
+        "days_en": "2–3 days"
+    },
+    {
+        "name_vi": "Hà Nội (extra 61)",
+        "name_en": "Hanoi (extra 61)",
+        "description_vi": "Thủ đô nghìn năm văn hiến, trung tâm chính trị, văn hóa và ẩm thực.",
+        "description_en": "Hanoi, Vietnam's thousand-year-old capital, rich in culture and cuisine.",
+        "best_time_vi": "Tháng 9–11, 3–4",
+        "best_time_en": "September–November, March–April",
+        "top_attractions_vi": [{
+            "name": "Hồ Gươm",
+            "desc": "Trung tâm lịch sử",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 phút",
+            "tips": "Đi bộ sáng sớm"
+        }],
+        "top_attractions_en": [{
+            "name": "Hoan Kiem Lake",
+            "desc": "Historic center",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 min",
+            "tips": "Walk early morning"
+        }],
+        "foods_vi": [{
+            "name": "Phở Hà Nội",
+            "desc": "Nước dùng trong",
+            "avg_price": "40k–70k VND",
+            "where_to_try": "Phở Bát Đàn"
+        }],
+        "foods_en": [{
+            "name": "Hanoi Pho",
+            "desc": "Clear broth noodle soup",
+            "avg_price": "2–3 USD",
+            "where_to_try": "Pho Bat Dan"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Lăng Bác",
+                    "Phố cổ"
+                ]
+            }],
+            "cost_estimate_vi": "1.5–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "2-day",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Ho Chi Minh Mausoleum",
+                    "Old Quarter"
+                ]
+            }],
+            "cost_estimate_en": "60–120 USD"
+        }],
+        "travel_tips_vi": [
+            "Mang giày thoải mái."
+        ],
+        "travel_tips_en": [
+            "Wear comfortable shoes."
+        ],
+        "days_vi": "2–3 ngày",
+        "days_en": "2–3 days"
+    },
+    {
+        "name_vi": "Hà Nội (extra 62)",
+        "name_en": "Hanoi (extra 62)",
+        "description_vi": "Thủ đô nghìn năm văn hiến, trung tâm chính trị, văn hóa và ẩm thực.",
+        "description_en": "Hanoi, Vietnam's thousand-year-old capital, rich in culture and cuisine.",
+        "best_time_vi": "Tháng 9–11, 3–4",
+        "best_time_en": "September–November, March–April",
+        "top_attractions_vi": [{
+            "name": "Hồ Gươm",
+            "desc": "Trung tâm lịch sử",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 phút",
+            "tips": "Đi bộ sáng sớm"
+        }],
+        "top_attractions_en": [{
+            "name": "Hoan Kiem Lake",
+            "desc": "Historic center",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 min",
+            "tips": "Walk early morning"
+        }],
+        "foods_vi": [{
+            "name": "Phở Hà Nội",
+            "desc": "Nước dùng trong",
+            "avg_price": "40k–70k VND",
+            "where_to_try": "Phở Bát Đàn"
+        }],
+        "foods_en": [{
+            "name": "Hanoi Pho",
+            "desc": "Clear broth noodle soup",
+            "avg_price": "2–3 USD",
+            "where_to_try": "Pho Bat Dan"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Lăng Bác",
+                    "Phố cổ"
+                ]
+            }],
+            "cost_estimate_vi": "1.5–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "2-day",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Ho Chi Minh Mausoleum",
+                    "Old Quarter"
+                ]
+            }],
+            "cost_estimate_en": "60–120 USD"
+        }],
+        "travel_tips_vi": [
+            "Mang giày thoải mái."
+        ],
+        "travel_tips_en": [
+            "Wear comfortable shoes."
+        ],
+        "days_vi": "2–3 ngày",
+        "days_en": "2–3 days"
+    },
+    {
+        "name_vi": "Hà Nội (extra 63)",
+        "name_en": "Hanoi (extra 63)",
+        "description_vi": "Thủ đô nghìn năm văn hiến, trung tâm chính trị, văn hóa và ẩm thực.",
+        "description_en": "Hanoi, Vietnam's thousand-year-old capital, rich in culture and cuisine.",
+        "best_time_vi": "Tháng 9–11, 3–4",
+        "best_time_en": "September–November, March–April",
+        "top_attractions_vi": [{
+            "name": "Hồ Gươm",
+            "desc": "Trung tâm lịch sử",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 phút",
+            "tips": "Đi bộ sáng sớm"
+        }],
+        "top_attractions_en": [{
+            "name": "Hoan Kiem Lake",
+            "desc": "Historic center",
+            "price": "Free",
+            "opening_time": "All day",
+            "duration": "30–60 min",
+            "tips": "Walk early morning"
+        }],
+        "foods_vi": [{
+            "name": "Phở Hà Nội",
+            "desc": "Nước dùng trong",
+            "avg_price": "40k–70k VND",
+            "where_to_try": "Phở Bát Đàn"
+        }],
+        "foods_en": [{
+            "name": "Hanoi Pho",
+            "desc": "Clear broth noodle soup",
+            "avg_price": "2–3 USD",
+            "where_to_try": "Pho Bat Dan"
+        }],
+        "suggested_itineraries_vi": [{
+            "title": "2 ngày",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Lăng Bác",
+                    "Phố cổ"
+                ]
+            }],
+            "cost_estimate_vi": "1.5–3 triệu VNĐ"
+        }],
+        "suggested_itineraries_en": [{
+            "title": "2-day",
+            "days": [{
+                "day": 1,
+                "plan": [
+                    "Ho Chi Minh Mausoleum",
+                    "Old Quarter"
+                ]
+            }],
+            "cost_estimate_en": "60–120 USD"
+        }],
+        "travel_tips_vi": [
+            "Mang giày thoải mái."
+        ],
+        "travel_tips_en": [
+            "Wear comfortable shoes."
+        ],
+        "days_vi": "2–3 ngày",
+        "days_en": "2–3 days"
+    }
+]
